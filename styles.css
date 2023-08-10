@@ -1,0 +1,38 @@
+body{
+    font-family: 'Arvo', serif;
+}
+
+
+
+.accordion{
+    width: 250px;
+    
+    
+}
+
+
+
+.costumerService{
+    width: 30px;
+    height: auto;
+}
+
+
+@media (min-width: 576px) { 
+    .accordion{
+    width: 400px;
+} 
+}
+
+
+@media (min-width: 768px) { 
+    .accordion{
+        width: 500px;
+    }
+ }
+
+@media (min-width: 992px) { ... }
+
+@media (min-width: 1200px) { ... }
+
+@media (min-width: 1400px) { ... }
